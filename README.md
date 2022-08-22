@@ -17,17 +17,9 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
+[![My Skills](https://skillicons.dev/icons?i=git,ts,react,redux,nodejs,py,django,html,css,bash,c)](https://skillicons.dev)
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-* 🔭 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+* 📱 Full-stack & mobile developer
 * 🎓 Control and Automation Engineer
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-c-ladeira&theme=tokyonight) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
