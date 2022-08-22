@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-[![My Skills](https://skillicons.dev/icons?i=git,ts,react,redux,nodejs,py,django,html,css,bash,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,ts,react,redux,styledcomponents,nodejs,py,django,html,css,bash,c)](https://skillicons.dev)
 
 * 📱 Full-stack & mobile developer
 * 🎓 Control and Automation Engineer
