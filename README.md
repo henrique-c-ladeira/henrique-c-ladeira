@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 * 📱 Full-stack & mobile developer
 * 🎓 Control and Automation Engineer
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-c-ladeira&theme=tokyonight) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+<!-- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-c-ladeira&theme=tokyonight) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/henrique-c-ladeira/)
 [<img src = "https://img.shields.io/badge/github-123123.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/henrique-c-ladeira/)
 
-
+ -->
