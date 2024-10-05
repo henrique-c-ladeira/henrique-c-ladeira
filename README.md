@@ -27,14 +27,7 @@ Here are some ideas to get you started:
 <img height="50em" src="https://skillicons.dev/icons?i=git,ts,react,swift,redux,nodejs,py,django,bash,cpp,vite,linux,apple,blender,bun" />
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&show_icons=true&theme=dark&count_private=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-c-ladeira&layout=compact&langs_count=7&theme=dark"/>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=henrique-c-ladeira&theme=dark" alt="henrique-c-ladeira" /> 
 </div>
-
-<!-- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=henrique-c-ladeira&theme=tokyonight) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&hide=stars,issues,contribs&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/henrique-c-ladeira/)
-[<img src = "https://img.shields.io/badge/github-123123.svg?&style=for-the-badge&logo=github&logoColor=white">](https://www.github.com/henrique-c-ladeira/)
-
- -->
