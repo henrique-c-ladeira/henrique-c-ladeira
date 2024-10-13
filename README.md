@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img height="50em" src="https://skillicons.dev/icons?i=git,ts,react,swift,redux,nodejs,py,django,bash,cpp,vite,linux,apple,blender,bun" />
+<img height="50em" src="https://skillicons.dev/icons?i=git,ts,react,swift,solidity,redux,nodejs,py,django,bash,cpp,vite,linux,apple,blender" />
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henrique-c-ladeira&show_icons=true&theme=dark&count_private=true&hide_rank=true"/>
